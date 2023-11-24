@@ -4,11 +4,12 @@ import java.util.Arrays;
 
 public class main {
     public static void main(String[] args) {
-        int num1 = 1222;
-        int num2 = 8;
-        SixteenPlusEighteen res = new SixteenPlusEighteen();
-        int sol = res.add(num1, num2);
-        System.out.println(sol);
+        String s1 = "aretheyhere";
+        String s2 = "yestheyarehere";
+        TwotoOne res = new TwotoOne();
+        res.longest(s1, s2);
+        //System.out.println(sol);
+
 
 
     }
