@@ -1,10 +1,14 @@
-import Kye7.SixteenPlusEighteen;
-
-import java.util.Arrays;
+import Kye6.CreatePhoneNumber;
 
 public class main {
     public static void main(String[] args) {
-        BinaryAddition res = new BinaryAddition();
-        res.binaryAddition(99, 99);
+        String text = "ABBA";
+        CountingDuplicates res = new CountingDuplicates();
+        int sol = res.duplicateCount(text);
+        System.out.println(sol);
+
+
+
+
     }
 }
