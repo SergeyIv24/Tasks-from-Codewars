@@ -2,6 +2,7 @@
 // 7 kye
 
 public class BinaryAddition {
+
     public static String binaryAddition(int a, int b){
         int sum = a + b;
         String binaryNum = "";

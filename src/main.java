@@ -1,14 +1,17 @@
-import Kye6.CreatePhoneNumber;
+import Kye6.YourOrderPlease;
+
+import java.util.Arrays;
 
 public class main {
     public static void main(String[] args) {
-        String text = "ABBA";
-        CountingDuplicates res = new CountingDuplicates();
-        int sol = res.duplicateCount(text);
-        System.out.println(sol);
+        String words = "is2 Thi1s T4est 3a";
+        YourOrderPlease word = new YourOrderPlease();
+        word.order(words);
 
 
 
 
     }
 }
+
+
