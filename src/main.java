@@ -1,12 +1,13 @@
+import Kye6.FindTheMissingLetter;
 import Kye6.YourOrderPlease;
 
 import java.util.Arrays;
 
 public class main {
     public static void main(String[] args) {
-        String words = "is2 Thi1s T4est 3a";
-        YourOrderPlease word = new YourOrderPlease();
-        String test = word.order(words);
+        FindTheMissingLetter let = new FindTheMissingLetter();
+        char[] letters = {'a','b','d'};
+        char test = let.findMissingLetter(letters);
         System.out.println(test);
 
 
