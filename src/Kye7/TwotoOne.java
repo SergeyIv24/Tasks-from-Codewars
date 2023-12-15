@@ -1,6 +1,8 @@
 //https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/java
 // 7 kye
 
+package Kye7;
+
 public class TwotoOne {
     public static String longest (String s1, String s2) {
         String generalStr = s1 + s2;

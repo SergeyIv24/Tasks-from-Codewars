@@ -1,7 +1,7 @@
 //https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/java
 // 6 kye
 
-import java.util.Arrays;
+package Kye6;
 
 public class CountingDuplicates {
     public static int duplicateCount(String text) {
