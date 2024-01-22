@@ -1,5 +1,6 @@
 //kye6
 //https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/java
+package Kye6;
 
 public class PersistentBugger {
     public static int persistence(long n) {
