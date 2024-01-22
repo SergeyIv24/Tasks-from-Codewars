@@ -1,11 +1,13 @@
-import Kye6.FindTheOddInt;
+import Kye6.ArrayDiff;
+import java.util.Arrays;
 
 public class main {
     public static void main(String[] args) {
-        int[] a = {7};
-        FindTheOddInt res = new FindTheOddInt();
-        int sol = res.findIt(a);
-        System.out.println(sol);
+        ArrayDiff task = new ArrayDiff();
+        int[] a = new int[] {1};
+        int[] b = new int[] {1,1};
+        System.out.println(Arrays.toString(task.arrayDiff(a, b)));
+
 
 
 
