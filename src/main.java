@@ -1,14 +1,9 @@
-import Kye6.DuplicateEncoder;
+import Kye6.StopGninnipSMySdroW;
 
 public class main {
     public static void main(String[] args) {
-        PersistentBugger task = new PersistentBugger();
-        System.out.println(task.persistence(25));
-
-
-
-
-
+        StopGninnipSMySdroW task1 = new StopGninnipSMySdroW();
+        System.out.println(task1.spinWords("Hey fellow warriors"));
 
 
 
