@@ -1,9 +1,11 @@
 import Kye6.StopGninnipSMySdroW;
+import Kye6.SumOfDigitsDigitalRoot;
 
 public class main {
     public static void main(String[] args) {
-        StopGninnipSMySdroW task1 = new StopGninnipSMySdroW();
-        System.out.println(task1.spinWords("Hey fellow warriors"));
+        SumOfDigitsDigitalRoot task1 = new SumOfDigitsDigitalRoot();
+        System.out.println(task1.digital_root(325513));
+
 
 
 
