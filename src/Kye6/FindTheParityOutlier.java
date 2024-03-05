@@ -14,5 +14,4 @@ public class FindTheParityOutlier {
             return Arrays.stream(integers).filter(n -> n % 2 == 0).toArray()[0];
         }
     }
-
 }
