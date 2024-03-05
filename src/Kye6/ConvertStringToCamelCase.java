@@ -4,7 +4,7 @@
 package Kye6;
 
 public class ConvertStringToCamelCase {
-    public static String toCamelCase(String s){
+    public static String toCamelCase(String s) {
         char[] arrOfSymbols = s.toCharArray();
         String camelCaseStr = "";
         for (int i = 0; i < arrOfSymbols.length; i++) {
@@ -18,4 +18,11 @@ public class ConvertStringToCamelCase {
         }
         return camelCaseStr;
     }
+
+    /* Решения с помощью StreamAPI
+    public static String toCamelCase(String s) {
+    *   String[] arr = str.split("-");
+    *   return out = Arrays.stream(arr).map(s -> s.substring(0,1).toUpperCase() + s.substring(1)).collect(Collectors.toList()).toString();
+    }
+    * */
 }
