@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
 
 public class main {
     public static void main(String[] args) {
-
-        System.out.println(PlayingWithDigits.digPow(46288, 3));
+        double[] arr = new double[]{0, 1, 0};
+        System.out.println(FindTheUniqueNumber.findUniq(arr));
 
 
 
