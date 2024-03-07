@@ -3,14 +3,19 @@ import Kye5.RGBToHexConversion;
 import Kye5.SimplePigLatin;
 import Kye6.*;
 import Kye7.ReverseWords;
+import Kye7.ShortestWord;
+import Kye7.SmallestValueOfAnArray;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class main {
     public static void main(String[] args) {
-        System.out.println(ReverseWords.reverseWords("            "));
+        int[] num = {1, 2, 3};
+
+        System.out.println(SmallestValueOfAnArray.findSmallest(num, "index"));
 
 
 
