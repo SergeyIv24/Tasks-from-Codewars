@@ -5,6 +5,7 @@ import Kye6.*;
 import Kye7.ReverseWords;
 import Kye7.ShortestWord;
 import Kye7.SmallestValueOfAnArray;
+import Kye7.VeryEvenNumbers;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,8 +14,8 @@ import java.util.stream.Stream;
 
 public class main {
     public static void main(String[] args) {
-        int[] cusomers = {1};
-        System.out.println(TheSupermarketQueue.solveSuperMarketQueue(cusomers, 2));
+        System.out.println(VeryEvenNumbers.isVeryEvenNumber(1234));
+
 
 
 
