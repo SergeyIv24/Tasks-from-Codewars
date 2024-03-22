@@ -13,9 +13,9 @@ import java.util.stream.Stream;
 
 public class main {
     public static void main(String[] args) {
-        int[] num = {1, 2, 3};
+        int[] cusomers = {1};
+        System.out.println(TheSupermarketQueue.solveSuperMarketQueue(cusomers, 2));
 
-        System.out.println(SmallestValueOfAnArray.findSmallest(num, "index"));
 
 
 
