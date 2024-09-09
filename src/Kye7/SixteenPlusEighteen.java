@@ -1,9 +1,6 @@
 //https://www.codewars.com/kata/5effa412233ac3002a9e471d/train/java
-//7 kye
 
 package Kye7;
-
-import java.util.Arrays;
 
 public class SixteenPlusEighteen {
     public static int add(int num1,int num2){

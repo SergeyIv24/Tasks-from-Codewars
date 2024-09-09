@@ -1,5 +1,5 @@
 //https://www.codewars.com/kata/57f780909f7e8e3183000078/train/java
-//8 kye
+
 
 package Kye8;
 

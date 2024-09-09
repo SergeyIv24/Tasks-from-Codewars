@@ -1,5 +1,5 @@
 //https://www.codewars.com/kata/5b853229cfde412a470000d0/train/java
-//8 kye
+
 package Kye8;
 
 public class TwiceAsOld {

@@ -1,5 +1,5 @@
-//Kye6
 //https://www.codewars.com/kata/5264d2b162488dc400000001/train/java
+
 package Kye6;
 
 public class StopGninnipSMySdroW {

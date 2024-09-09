@@ -1,4 +1,3 @@
-//Kye 7
 //https://www.codewars.com/kata/544a54fd18b8e06d240005c0/train/java
 
 package Kye7;

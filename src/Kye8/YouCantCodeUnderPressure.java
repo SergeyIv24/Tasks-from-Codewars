@@ -1,5 +1,5 @@
 //https://www.codewars.com/kata/53ee5429ba190077850011d4/train/java
-//8 kye
+
 package Kye8;
 
 public class YouCantCodeUnderPressure {

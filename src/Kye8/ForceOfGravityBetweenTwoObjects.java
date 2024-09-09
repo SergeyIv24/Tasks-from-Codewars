@@ -1,5 +1,5 @@
 //https://www.codewars.com/kata/5b609ebc8f47bd595e000627/train/java
-//8 kye
+
 package Kye8;
 
 public class ForceOfGravityBetweenTwoObjects {

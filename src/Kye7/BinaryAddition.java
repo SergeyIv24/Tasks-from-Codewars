@@ -1,5 +1,5 @@
 //https://www.codewars.com/kata/551f37452ff852b7bd000139
-// 7 kye
+
 
 package Kye7;
 public class BinaryAddition {
@@ -24,7 +24,6 @@ public class BinaryAddition {
 
         binaryNum = "" + toBinaryNum;
         binaryNum = binaryNum + reversSurplusStr;
-        System.out.println(binaryNum);
         return binaryNum;
     }
 }

@@ -1,8 +1,6 @@
-// kye 6
 // https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/java
 
 package Kye6;
-import java.util.ArrayList;
 
 public class YourOrderPlease {
     public static String order(String words) {

@@ -1,5 +1,5 @@
 //https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java
-//7 Kye
+
 package Kye7;
 
 public class VowelCount {
